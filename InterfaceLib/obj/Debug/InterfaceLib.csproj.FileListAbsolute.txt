@@ -1,0 +1,5 @@
+E:\Projects\SkypeBot\InterfaceLib\bin\Debug\InterfaceLib.dll
+E:\Projects\SkypeBot\InterfaceLib\bin\Debug\InterfaceLib.pdb
+E:\Projects\SkypeBot\InterfaceLib\obj\Debug\InterfaceLib.csprojResolveAssemblyReference.cache
+E:\Projects\SkypeBot\InterfaceLib\obj\Debug\InterfaceLib.dll
+E:\Projects\SkypeBot\InterfaceLib\obj\Debug\InterfaceLib.pdb
