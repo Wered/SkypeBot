@@ -3,7 +3,6 @@ using System.Threading.Tasks;
 using SKYPE4COMLib;
 using System.Threading;
 
-
 namespace SkypeBot
 {
     class Program
@@ -14,8 +13,9 @@ namespace SkypeBot
         private static SkypeWork WinWorker = new SkypeWork();       
         #endregion
         static void Main(string[] args)
-        {            
-            Modules.LoadModules();
+        {
+         
+            Modules.LoadModules();            
             new Program().Run();
         }     
         private void Run()
