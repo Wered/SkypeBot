@@ -1,7 +1,0 @@
-E:\Projects\SkypeBot\BashModule\obj\Debug\BashModule.csprojResolveAssemblyReference.cache
-E:\Projects\SkypeBot\BashModule\bin\Debug\BashModule.dll
-E:\Projects\SkypeBot\BashModule\bin\Debug\BashModule.pdb
-E:\Projects\SkypeBot\BashModule\bin\Debug\InterfaceLib.dll
-E:\Projects\SkypeBot\BashModule\bin\Debug\InterfaceLib.pdb
-E:\Projects\SkypeBot\BashModule\obj\Debug\BashModule.dll
-E:\Projects\SkypeBot\BashModule\obj\Debug\BashModule.pdb

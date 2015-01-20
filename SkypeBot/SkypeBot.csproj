@@ -66,10 +66,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\MyModules\MyModules\MyModules.csproj">
-      <Project>{2f5062bb-7862-4d5d-8046-e4c6fd0e7d82}</Project>
-      <Name>MyModules</Name>
-    </ProjectReference>
     <ProjectReference Include="..\InterfaceLib\InterfaceLib.csproj">
       <Project>{ff09ddd5-8781-48a7-82b6-14e4498c672c}</Project>
       <Name>InterfaceLib</Name>

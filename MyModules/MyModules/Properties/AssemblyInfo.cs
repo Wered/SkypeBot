@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BashModule")]
+[assembly: AssemblyTitle("MyModules")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BashModule")]
+[assembly: AssemblyProduct("MyModules")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d4baadc6-c1f4-4c1c-8a23-cb161be9b6c0")]
+[assembly: Guid("1f75c5b0-cc85-47eb-bf07-1d79d01ed42e")]
 
 // Version information for an assembly consists of the following four values:
 //

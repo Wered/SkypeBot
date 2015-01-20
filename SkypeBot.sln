@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkypeBot", "SkypeBot\SkypeB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceLib", "InterfaceLib\InterfaceLib.csproj", "{FF09DDD5-8781-48A7-82B6-14E4498C672C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyModules", "..\MyModules\MyModules\MyModules.csproj", "{2F5062BB-7862-4D5D-8046-E4C6FD0E7D82}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyModules", "MyModules\MyModules\MyModules.csproj", "{2F5062BB-7862-4D5D-8046-E4C6FD0E7D82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

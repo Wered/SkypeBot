@@ -1,0 +1,13 @@
+E:\Projects\MyModules\MyModules\bin\Debug\MyModules.dll
+E:\Projects\MyModules\MyModules\bin\Debug\MyModules.pdb
+E:\Projects\MyModules\MyModules\bin\Debug\InterfaceLib.dll
+E:\Projects\MyModules\MyModules\bin\Debug\InterfaceLib.pdb
+E:\Projects\MyModules\MyModules\obj\Debug\MyModules.csprojResolveAssemblyReference.cache
+E:\Projects\MyModules\MyModules\obj\Debug\MyModules.dll
+E:\Projects\MyModules\MyModules\obj\Debug\MyModules.pdb
+E:\Projects\SkypeBot\MyModules\MyModules\bin\Debug\MyModules.dll
+E:\Projects\SkypeBot\MyModules\MyModules\bin\Debug\MyModules.pdb
+E:\Projects\SkypeBot\MyModules\MyModules\bin\Debug\InterfaceLib.pdb
+E:\Projects\SkypeBot\MyModules\MyModules\obj\Debug\MyModules.csprojResolveAssemblyReference.cache
+E:\Projects\SkypeBot\MyModules\MyModules\obj\Debug\MyModules.dll
+E:\Projects\SkypeBot\MyModules\MyModules\obj\Debug\MyModules.pdb

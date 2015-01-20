@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2A685EB0-3A31-4016-8D66-231D79238E77}</ProjectGuid>
+    <ProjectGuid>{2F5062BB-7862-4D5D-8046-E4C6FD0E7D82}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BashModule</RootNamespace>
-    <AssemblyName>BashModule</AssemblyName>
+    <RootNamespace>MyModules</RootNamespace>
+    <AssemblyName>MyModules</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -30,6 +30,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="InterfaceLib">
+      <HintPath>..\..\SkypeBot\InterfaceLib\bin\Debug\InterfaceLib.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.Composition" />
     <Reference Include="System.Core" />
@@ -40,14 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="BashModule.cs" />
+    <Compile Include="ExchangeRate.cs" />
+    <Compile Include="LoLCounter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\InterfaceLib\InterfaceLib.csproj">
-      <Project>{ff09ddd5-8781-48a7-82b6-14e4498c672c}</Project>
-      <Name>InterfaceLib</Name>
-    </ProjectReference>
+    <Compile Include="RandomNumber.cs" />
+    <Compile Include="Reddles.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using SKYPE4COMLib;
 using System.Threading;
-using MyModules;
+
 
 namespace SkypeBot
 {
@@ -14,8 +14,7 @@ namespace SkypeBot
         private static SkypeWork WinWorker = new SkypeWork();       
         #endregion
         static void Main(string[] args)
-        {
-            
+        {            
             Modules.LoadModules();
             new Program().Run();
         }     
@@ -25,7 +24,7 @@ namespace SkypeBot
             try
             {
                    skype.Attach(5,true);                   
-                   Console.WriteLine("К Скайпу подрубился");
+                   Console.WriteLine("К Скайпу подключился");
                    #region Очистка всех MissedMessages
         foreach (IChatMessage message in skype.MissedMessages)
         {

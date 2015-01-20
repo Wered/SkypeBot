@@ -6,5 +6,3 @@ E:\Projects\SkypeBot\SkypeBot\obj\Debug\SkypeBot.pdb
 E:\Projects\SkypeBot\SkypeBot\obj\Debug\SkypeBot.csprojResolveAssemblyReference.cache
 E:\Projects\SkypeBot\SkypeBot\bin\Debug\InterfaceLib.dll
 E:\Projects\SkypeBot\SkypeBot\bin\Debug\InterfaceLib.pdb
-E:\Projects\SkypeBot\SkypeBot\bin\Debug\MyModules.dll
-E:\Projects\SkypeBot\SkypeBot\bin\Debug\MyModules.pdb
